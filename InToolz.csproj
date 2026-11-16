@@ -105,9 +105,9 @@
     <PackageReference Include="CommunityToolkit.WinUI.Controls.Sizers" Version="8.2.251219" />
     <PackageReference Include="CommunityToolkit.WinUI.UI.Controls.DataGrid" Version="7.1.2" />
     <PackageReference Include="Microsoft.Graph.Beta" Version="5.114.0-preview" />
-    <PackageReference Include="Microsoft.Identity.Client" Version="4.73.1" />
-	<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26100.7175" />
-	<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.251106002" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.92.0" />
+	<PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.28000.2957" />
+	<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.8.260921001" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="Assets\LargeTile.scale-100.ico">
